@@ -8,11 +8,11 @@
 修改後的題目是 23 句的千塘語（編號 1:23）和以亂序排列的英文翻譯（編號 a:w）。
 
 ```
-index_C	Chintang_in_IPA	        index_E	  English_translation																							
-1	      cuwa uthurumbeʔ yuŋno	  a	        There is a hole in the towel.																							
-2	      appa chintaŋbeʔ yuŋno	  b	        The woman has gone away.																							
-3	      sencak sie	            c	        The rice has been cooked.																							
-4	      wapaŋa topi wadaŋse	    d	        There is a hat on the head.																							
+index_C	Chintang_in_IPA	           index_E	  English_translation																							
+1	      cuwa uthurumbeʔ yuŋno	     a	        There is a hole in the towel.																							
+2	      appa chintaŋbeʔ yuŋno	     b	        The woman has gone away.																							
+3	      sencak sie	               c	        The rice has been cooked.																							
+4	      wapaŋa topi wadaŋse	       d	        There is a hat on the head.																							
 ...
 ```
 
