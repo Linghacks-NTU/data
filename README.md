@@ -2,10 +2,30 @@
 
 ## 輸入檔案：`input.csv`
 
-輸出：output.txt (e,g., 1:b;2:f;3:p......)
 
-這個題目涉及尼泊爾的千塘方言 (Chintang) ，題目來源修改自美國中學生計算語言學奧林匹亞競賽 NACLO ("A cat in a hat")。
-參賽者可以使用各種資源。
+這個題目涉及尼泊爾的千塘方言 (Chintang) ，題目來源修改自美國中學生計算語言學奧林匹亞競賽 NACLO ("A cat in a hat")。[原始題目](https://www.nacloweb.org/resources/problems/2020/N2020-B.pdf) 與[解答](https://www.nacloweb.org/resources/problems/2020/N2020-BS.pdf)
+
+修改後的題目是 23 句的千塘語（編號 1:23）和以亂序排列的英文翻譯（編號 a:w）。
+
+```
+index_C	Chintang_in_IPA	        index_E	  English_translation																							
+1	      cuwa uthurumbeʔ yuŋno	  a	        There is a hole in the towel.																							
+2	      appa chintaŋbeʔ yuŋno	  b	        The woman has gone away.																							
+3	      sencak sie	            c	        The rice has been cooked.																							
+4	      wapaŋa topi wadaŋse	    d	        There is a hat on the head.																							
+...
+```
+
+除了以上資料，本競賽還可以加上兩個提示給電腦: cuwa:'water'; chintaŋbe: 'Chintang'。
+程式作業在於對於千塘語和相應的英語翻譯做自動配對。參賽者可以使用外部各種資源（除了千塘-英文字典）。輸出檔案 output.txt 
+
+```
+1:b
+2:f
+3:p
+...
+```
+
 
 ## Process
 
