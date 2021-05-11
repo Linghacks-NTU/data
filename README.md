@@ -35,4 +35,4 @@ index_C	Chintang_in_IPA	           index_E	  English_translation
 
 
 ## Evaluation
-評測方式以正確率 (50%) 與演算創新與解釋力 (50%) 為評估標準。
+評測方式以正確率 (70%) 與演算創新與解釋力 (30%) 為評估標準。
