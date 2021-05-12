@@ -15,15 +15,15 @@
 ## input data：`input.csv`
 輸入檔案之格式如下所示：
 
-```
+
 index_C | Chintang_in_IPA       | index_E  | English_translation 
 --------|:---------------------:|---------:|------------------------
 1       | cuwa uthurumbeʔ yuŋno | a        | There is a hole in the towel.
 2       | appa chintaŋbeʔ yuŋno | b        | The woman has gone away.
 3       | sencak sie	          | c        | The rice has been cooked.
 4       | wapaŋa topi wadaŋse   | d        | There is a hat on the head.																						
-...
-```
+... x 4 
+
 
 ## output：`output.txt `
 請將輸出檔案命名為 output.txt ，檔案內容應如下所示：
