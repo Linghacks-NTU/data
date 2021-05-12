@@ -1,7 +1,7 @@
-# 第四屆語言分析黑客松[插電場] 測試語料與程序說明
+# 第四屆語言分析黑客松 [插電場] - 測試語料與程序說明
 
 ## Task
-這個題目涉及尼泊爾的千塘方言 (Chintang) ，修改自美國中學生計算語言學奧林匹亞競賽 NACLO ("A cat in a hat")。[原始題目](https://www.nacloweb.org/resources/problems/2020/N2020-B.pdf) 與 [解答](https://www.nacloweb.org/resources/problems/2020/N2020-BS.pdf)
+這個題目涉及尼泊爾的千塘方言 (Chintang) ，修改自美國中學生計算語言學奧林匹亞競賽 NACLO ("A cat in a hat", [原始題目](https://www.nacloweb.org/resources/problems/2020/N2020-B.pdf) 與 [解答](https://www.nacloweb.org/resources/problems/2020/N2020-BS.pdf) )。
 
 修改後的題目已存為 `input.csv`，內容是 23 句的千塘語（編號 1～23）和已亂序排列的英文翻譯（編號 a～w）。
 
@@ -9,7 +9,7 @@
 
 #### notes
 - 除了以上資料，本競賽還可以加上兩個提示給電腦: cuwa:'water'; chintaŋbe: 'Chintang'。  
-- 參賽者可以使用外部各種資源（除了千塘-英文字典）。
+- 除了千塘-英文字典，參賽者可以使用外部各種資源。
 
 
 ## input data：`input.csv`
@@ -23,6 +23,7 @@ index_C | Chintang_in_IPA       | index_E  | English_translation
 3       | sencak sie	          | c        | The rice has been cooked.
 4       | wapaŋa topi wadaŋse   | d        | There is a hat on the head.																						
 ...     | ...                   | ...      | ... 
+
 
 
 ## output：`output.txt `
